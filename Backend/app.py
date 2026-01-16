@@ -31,6 +31,7 @@ async def input_params(data: Input):
     return {
         "id": data.id,
         "city": data.city_name,
+        "destination name": data.destination_name,
         "date": data.date,
         "budget": data.budget
     }

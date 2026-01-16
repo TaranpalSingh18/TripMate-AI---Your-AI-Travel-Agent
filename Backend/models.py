@@ -7,6 +7,7 @@ class Input(Base):
     __tablename__ = "input_table"
     id = Column(String, primary_key=True)
     city_name = Column(String)
+    destination_name = Column(String)
     date = Column (Date)
     budget = Column(Integer)
 

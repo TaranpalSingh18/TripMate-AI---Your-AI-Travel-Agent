@@ -4,3 +4,8 @@ mongoose
 python-dotenv
 sqlalchemy
 psycopg2
+langchain
+langchain-community
+langgraph
+langchain-groq
+serpapi
