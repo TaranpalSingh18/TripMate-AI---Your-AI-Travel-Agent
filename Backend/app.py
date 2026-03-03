@@ -35,3 +35,4 @@ async def input_params(data: Input):
         "date": data.date,
         "budget": data.budget
     }
+
